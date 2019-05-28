@@ -1,0 +1,12 @@
+{
+  "name": "k",
+  "version": "k",
+  "main": "d",
+  "repository": "d",
+  "author": "bathwater425 <mike@vallebuona.digital>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1"
+  }
+}
